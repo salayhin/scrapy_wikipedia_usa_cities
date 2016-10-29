@@ -92,4 +92,4 @@ wikipedia_usa_cities/spiders/__pycache__
 .idea/
 scrapy.cfg
 wikipedia_usa_cities/usa_city_list.csv
-wikipedia_usa_cities/usa_city_list.csv
+wikipedia_usa_cities/wikipedia_cities.json

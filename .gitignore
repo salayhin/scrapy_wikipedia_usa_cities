@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+wikipedia_usa_cities/__pycache__
+wikipedia_usa_cities/spiders/__pycache__
+.idea/
+scrapy.cfg
+
